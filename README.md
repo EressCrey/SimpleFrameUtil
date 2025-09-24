@@ -9,15 +9,15 @@
 ![运行效果图](./docs/images/preview.png)
 
 ## 目前的功能
-支持输入密钥的AES加解密
-支持MD5加密
-支持Gzip加压解压
-支持Base64编码解码
-支持输入密钥的JWT加解密
-支持ASCII编码解码
-支持Unicode编码解码
-支持UTF-8编码解码
-支持URL编码解码
+支持输入密钥的AES加解密<p/>
+支持MD5加密<p/>
+支持Gzip加压解压<p/>
+支持Base64编码解码<p/>
+支持输入密钥的JWT加解密<p/>
+支持ASCII编码解码<p/>
+支持Unicode编码解码<p/>
+支持UTF-8编码解码<p/>
+支持URL编码解码<p/>
 
 ## 反馈、更新
 具体可提issue
